@@ -2,19 +2,37 @@
     {
         "image": "image1.png",
         "title": "Booki",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "text": "Développement d'une page d'accueil responsive en utilisant HTML et CSS, basé sur des maquettes Figma pour mobile, tablette et desktop. Intégration de composants d'interface personnalisés pour assurer un rendu conforme aux exigences de design, avec une attention particulière à la compatibilité sur tous les appareils et tailles d'écran.",
         "link": "#"
     },
     {
-        "image": "image2.png",
-        "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "image": "SophieBluel.png",
+        "title": "Sophie Bluel",
+        "text": "Développement d'une page de présentation des travaux d'une architecte d'intérieur en utilisant JavaScript pour la gestion des événements utilisateurs et la manipulation du DOM. Création d'une page de connexion pour l'administrateur et d'une modale pour uploader des médias. Communication avec une API pour tester les fonctionnalités, en utilisant Figma pour les maquettes, Visual Studio Code pour le développement, et GitHub pour la gestion de version.",
         "link": "#"
     },
     {
         "image": "image3.png",
         "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "text": "Création du front-end d'une application de location immobilière en utilisant React pour les composants et React Router pour la navigation. Développement de la logique de présentation des données et mise en place de la structure, du style et des fonctionnalités des composants. Utilisation de Create React App pour initialiser le projet. Focus sur le front-end malgré un back-end en Node.js, pour comprendre le développement d'applications web modernes et faciliter des tests plus efficaces des composants React.",
+        "link": "#"
+    },
+    {
+        "image": "image3.png",
+        "title": "Eco Bliss Bath",
+        "text": "Analyse des résultats de tests manuels et automatisation des tests fonctionnels critiques du site web avec Cypress. Rédaction de scripts en JavaScript, exécution des tests automatisés, et rédaction d'un rapport détaillé sur les résultats et anomalies détectées.",
+        "link": "#"
+    },
+    {
+        "image": "image3.png",
+        "title": "TOMSEN",
+        "text": "Définition d'une stratégie de test pour une application bancaire avant sa mise en production. Analyse des spécifications fonctionnelles, planification des tests en mode agile, rédaction d'un cahier de recette, et utilisation de Notion pour la gestion de projet et la documentation.",
+        "link": "#"
+    },
+    {
+        "image": "Group 13.png",
+        "title": "Qwenta",
+        "text": "Planification du développement d'un site web client en rédigeant les spécifications techniques, organisant les tâches avec un tableau Kanban sur Notion, et effectuant une veille technologique pour suivre les dernières tendances et technologies. Présentation de la solution technique finale sans intervention directe dans le codage.",
         "link": "#"
     }
 ]
