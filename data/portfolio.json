@@ -9,19 +9,19 @@
         "image": "SophieBluel.png",
         "title": "Sophie Bluel",
         "text": "Développement d'une page de présentation des travaux d'une architecte d'intérieur en utilisant JavaScript pour la gestion des événements utilisateurs et la manipulation du DOM. Création d'une page de connexion pour l'administrateur et d'une modale pour uploader des médias. Communication avec une API pour tester les fonctionnalités, en utilisant Figma pour les maquettes, Visual Studio Code pour le développement, et GitHub pour la gestion de version.",
-        "link": "#"
+        "link": "https://github.com/bendahmanenaim/Une_page_web_dynamique_avec_javaScript"
     },
     {
         "image": "image3.png",
         "title": "Kasa",
         "text": "Création du front-end d'une application de location immobilière en utilisant React pour les composants et React Router pour la navigation. Développement de la logique de présentation des données et mise en place de la structure, du style et des fonctionnalités des composants. Utilisation de Create React App pour initialiser le projet. Focus sur le front-end malgré un back-end en Node.js, pour comprendre le développement d'applications web modernes et faciliter des tests plus efficaces des composants React.",
-        "link": "#"
+        "link": "https://github.com/bendahmanenaim/mon-premier-projet-react"
     },
     {
         "image": "image3.png",
         "title": "Eco Bliss Bath",
         "text": "Analyse des résultats de tests manuels et automatisation des tests fonctionnels critiques du site web avec Cypress. Rédaction de scripts en JavaScript, exécution des tests automatisés, et rédaction d'un rapport détaillé sur les résultats et anomalies détectées.",
-        "link": "#"
+        "link": "https://github.com/bendahmanenaim/TesteurLogiciel_Automatisez_des_tests_pour_une_boutique_en_ligne"
     },
     {
         "image": "image3.png",
