@@ -21,6 +21,9 @@
 .navbarScroll.navbarDark {
     background-color: #5b5b5b;
 }
+.navbar-nav .nav-link {
+    color: rgba(230, 11, 11, 0.5); /* ici on change la couleur de la barre menu */
+}
 
 /* hero background image */
 .bgimage {
@@ -53,6 +56,15 @@
 .imageAboutPage {
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+/* Aligne verticalement le texte et l'image */
+#about .row {
+    align-items: center;
+}
+
+/* Pour plus d'espace au-dessus et au-dessous de la section */
+#about {
+    padding: 20px 0;
 }
 
 /* skills */
