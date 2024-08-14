@@ -1,20 +1,20 @@
 [
     {
-        "image": "image1.png",
+        "image": "image1.webp",
         "title": "Booki",
         "text": "Développement d'une page d'accueil responsive en utilisant HTML et CSS, basé sur des maquettes Figma pour mobile, tablette et desktop. Intégration de composants d'interface personnalisés pour assurer un rendu conforme aux exigences de design, avec une attention particulière à la compatibilité sur tous les appareils et tailles d'écran.",
         "link": "https://github.com/bendahmanenaim/Booki",
         "alt": "Site Booki"
     },
     {
-        "image": "SophieBluel.png",
+        "image": "SophieBluel.webp",
         "title": "Sophie Bluel",
         "text": "Développement d'une page de présentation des travaux d'une architecte d'intérieur en utilisant JavaScript pour la gestion des événements utilisateurs et la manipulation du DOM. Création d'une page de connexion pour l'administrateur et d'une modale pour uploader des médias. Communication avec une API pour tester les fonctionnalités, en utilisant Figma pour les maquettes, Visual Studio Code pour le développement, et GitHub pour la gestion de version.",
         "link": "https://github.com/bendahmanenaim/Une_page_web_dynamique_avec_javaScript",
          "alt": "Sophie Bluel, architecte d'intérieur"
     },
     {
-        "image": "image3.png",
+        "image": "image3.webp",
         "title": "Kasa",
         "text": "Création du front-end d'une application de location immobilière en utilisant React pour les composants et React Router pour la navigation. Développement de la logique de présentation des données et mise en place de la structure, du style et des fonctionnalités des composants. Utilisation de Create React App pour initialiser le projet. Focus sur le front-end malgré un back-end en Node.js, pour comprendre le développement d'applications web modernes et faciliter des tests plus efficaces des composants React.",
         "link": "https://github.com/bendahmanenaim/mon-premier-projet-react",

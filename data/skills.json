@@ -6,13 +6,13 @@
         "alt": "logo html-css"
     },
     {
-        "image": "js.jpg",
+        "image": "js.webp",
         "title": "javascript",
         "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires",
         "alt": "logo js"
     },
     {
-        "image": "react.jpg",
+        "image": "react.webp",
         "title": "React",
         "text": "Création d’applications React, création de composants et manipulation de leur état",
         "alt": "logo react"
@@ -25,13 +25,13 @@
     },
 
     {
-        "image": "optimisation-et-debug.png",
+        "image": "optimisation-et-debug.webp",
         "title": "Optimisation et debug",
         "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne",
         "alt": "logo optimisation-et-debug"
     },
     {
-        "image": "test.png",
+        "image": "test.webp",
         "title": "Test",
         "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API",
         "alt": "logo test"
