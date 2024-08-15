@@ -1,6 +1,6 @@
 [
     {
-        "image": "image1.webp",
+        "image": "bookismall.webp",
         "title": "Booki",
         "text": "Développement d'une page d'accueil responsive en utilisant HTML et CSS, basé sur des maquettes Figma pour mobile, tablette et desktop. Intégration de composants d'interface personnalisés pour assurer un rendu conforme aux exigences de design, avec une attention particulière à la compatibilité sur tous les appareils et tailles d'écran.",
         "link": "https://github.com/bendahmanenaim/Booki",
@@ -14,21 +14,21 @@
          "alt": "Sophie Bluel, architecte d'intérieur"
     },
     {
-        "image": "image3.webp",
+        "image": "kasasmall480.webp",
         "title": "Kasa",
         "text": "Création du front-end d'une application de location immobilière en utilisant React pour les composants et React Router pour la navigation. Développement de la logique de présentation des données et mise en place de la structure, du style et des fonctionnalités des composants. Utilisation de Create React App pour initialiser le projet. Focus sur le front-end malgré un back-end en Node.js, pour comprendre le développement d'applications web modernes et faciliter des tests plus efficaces des composants React.",
         "link": "https://github.com/bendahmanenaim/mon-premier-projet-react",
         "alt": "Application de location immobilière Kasa"
     },
     {
-        "image": "ecoblissbath.png",
+        "image": "ecoblissbath_small480.webp",
         "title": "Eco Bliss Bath",
         "text": "Analyse des résultats de tests manuels et automatisation des tests fonctionnels critiques du site web avec Cypress. Rédaction de scripts en JavaScript, exécution des tests automatisés, et rédaction d'un rapport détaillé sur les résultats et anomalies détectées.",
         "link": "https://github.com/bendahmanenaim/TesteurLogiciel_Automatisez_des_tests_pour_une_boutique_en_ligne",
         "alt": "Site Eco Bliss Bath"
     },
     {
-        "image": "business-3972328_640.jpg",
+        "image": "business-small_480.webp",
         "title": "TOMSEN",
         "text": "Définition d'une stratégie de test pour une application bancaire avant sa mise en production. Analyse des spécifications fonctionnelles, planification des tests en mode agile, rédaction d'un cahier de recette, et utilisation de Notion pour la gestion de projet et la documentation.",
         "link": "#",

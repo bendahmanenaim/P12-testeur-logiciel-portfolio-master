@@ -1,6 +1,6 @@
 [
     {
-        "image": "html-css.jpg",
+        "image": "html-css_small480.webp",
         "title": "HTML - CSS",
         "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS",
         "alt": "logo html-css"
@@ -12,13 +12,13 @@
         "alt": "logo js"
     },
     {
-        "image": "react.webp",
+        "image": "reactsmall480.webp",
         "title": "React",
         "text": "Création d’applications React, création de composants et manipulation de leur état",
         "alt": "logo react"
     },
     {
-        "image": "gestion-de-projet.png",
+        "image": "gestion-de-projet.webp",
         "title": "Gestion de projet",
         "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet",
          "alt": "logo gestion-de-projet"
