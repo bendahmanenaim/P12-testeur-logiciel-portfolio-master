@@ -2,33 +2,33 @@
     {
         "image": "bookismall.webp",
         "title": "Booki",
-        "text": "Développement d'une page d'accueil responsive en utilisant HTML et CSS, basé sur des maquettes Figma pour mobile, tablette et desktop. Intégration de composants d'interface personnalisés pour assurer un rendu conforme aux exigences de design, avec une attention particulière à la compatibilité sur tous les appareils et tailles d'écran.",
+        "text": "Développement d'une page d'accueil responsive en HTML/CSS, conforme aux maquettes Figma, avec intégration de composants personnalisés pour une compatibilité optimale sur tous les appareils.",
         "link": "https://github.com/bendahmanenaim/Booki",
         "alt": "Site Booki"
     },
     {
         "image": "SophieBluel.webp",
         "title": "Sophie Bluel",
-        "text": "Développement d'une page de présentation des travaux d'une architecte d'intérieur en utilisant JavaScript pour la gestion des événements utilisateurs et la manipulation du DOM. Création d'une page de connexion pour l'administrateur et d'une modale pour uploader des médias. Communication avec une API pour tester les fonctionnalités, en utilisant Figma pour les maquettes, Visual Studio Code pour le développement, et GitHub pour la gestion de version.",
+        "text": "Page de présentation pour une architecte d'intérieur, avec gestion des événements utilisateur en JavaScript et manipulation du DOM. Création d'une page de connexion admin, modale pour l'upload de médias, et communication API pour les tests. Maquettes sur Figma, développement sur Visual Studio Code, gestion de version sur GitHub.",
         "link": "https://github.com/bendahmanenaim/Une_page_web_dynamique_avec_javaScript",
          "alt": "Sophie Bluel, architecte d'intérieur"
     },
     {
         "image": "kasasmall480.webp",
         "title": "Kasa",
-        "text": "Création du front-end d'une application de location immobilière en utilisant React pour les composants et React Router pour la navigation. Développement de la logique de présentation des données et mise en place de la structure, du style et des fonctionnalités des composants. Utilisation de Create React App pour initialiser le projet. Focus sur le front-end malgré un back-end en Node.js, pour comprendre le développement d'applications web modernes et faciliter des tests plus efficaces des composants React.",
+        "text": "Création du front-end d'une application de location immobilière avec React et React Router pour la navigation. Mise en place de la logique des données et des fonctionnalités des composants, initialisé avec Create React App. Malgré un back-end en Node.js, l'accent est mis sur le front-end pour optimiser les tests et la compréhension du développement web moderne.",
         "link": "https://github.com/bendahmanenaim/mon-premier-projet-react",
         "alt": "Application de location immobilière Kasa"
     },
     {
         "image": "ecoblissbath_small480.webp",
         "title": "Eco Bliss Bath",
-        "text": "Analyse des résultats de tests manuels et automatisation des tests fonctionnels critiques du site web avec Cypress. Rédaction de scripts en JavaScript, exécution des tests automatisés, et rédaction d'un rapport détaillé sur les résultats et anomalies détectées.",
+        "text": "Définition d'une stratégie de test pour une application bancaire. Analyse des spécifications fonctionnelles, planification des tests agiles, rédaction du cahier de recette et gestion de projet sur Notion.",
         "link": "https://github.com/bendahmanenaim/TesteurLogiciel_Automatisez_des_tests_pour_une_boutique_en_ligne",
         "alt": "Site Eco Bliss Bath"
     },
     {
-        "image": "business-small_480.webp",
+        "image": "business_200_150.webp",
         "title": "TOMSEN",
         "text": "Définition d'une stratégie de test pour une application bancaire avant sa mise en production. Analyse des spécifications fonctionnelles, planification des tests en mode agile, rédaction d'un cahier de recette, et utilisation de Notion pour la gestion de projet et la documentation.",
         "link": "#",
@@ -37,7 +37,7 @@
     {
         "image": "Group 13.png",
         "title": "Qwenta",
-        "text": "Planification du développement d'un site web client en rédigeant les spécifications techniques, organisant les tâches avec un tableau Kanban sur Notion, et effectuant une veille technologique pour suivre les dernières tendances et technologies. Présentation de la solution technique finale sans intervention directe dans le codage.",
+        "text": "Développement d’un site web client : rédaction de spécifications, organisation des tâches avec Notion (Kanban), et veille technologique. Présentation de la solution finale sans codage.",
         "link": "#",
          "alt": "site web Qwenta"
     }
