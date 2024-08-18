@@ -1,18 +1,18 @@
 [
     {
-        "image": "html-css_small480.webp",
+        "image": "html-css_small_w_200h_180.webp",
         "title": "HTML - CSS",
         "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS",
         "alt": "logo html-css"
     },
     {
-        "image": "js.webp",
+        "image": "js_200h_180.webp",
         "title": "javascript",
         "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires",
         "alt": "logo js"
     },
     {
-        "image": "reactsmall480.webp",
+        "image": "reactsmall_200h_180.webp",
         "title": "React",
         "text": "Création d’applications React, création de composants et manipulation de leur état",
         "alt": "logo react"
@@ -25,13 +25,13 @@
     },
 
     {
-        "image": "optimisation-et-debug.webp",
+        "image": "optimisation-et-debug_v2.webp",
         "title": "Optimisation et debug",
         "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne",
         "alt": "logo optimisation-et-debug"
     },
     {
-        "image": "test.webp",
+        "image": "test_v2.webp",
         "title": "Test",
         "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API",
         "alt": "logo test"

@@ -1,6 +1,6 @@
 [
     {
-        "image": "bookismall.webp",
+        "image": "bookismall_200h_150.webp",
         "title": "Booki",
         "text": "Développement d'une page d'accueil responsive en HTML/CSS, conforme aux maquettes Figma, avec intégration de composants personnalisés pour une compatibilité optimale sur tous les appareils.",
         "link": "https://github.com/bendahmanenaim/Booki",
@@ -14,14 +14,14 @@
          "alt": "Sophie Bluel, architecte d'intérieur"
     },
     {
-        "image": "kasasmall480.webp",
+        "image": "kasasmall_200.webp",
         "title": "Kasa",
         "text": "Création du front-end d'une application de location immobilière avec React et React Router pour la navigation. Mise en place de la logique des données et des fonctionnalités des composants, initialisé avec Create React App. Malgré un back-end en Node.js, l'accent est mis sur le front-end pour optimiser les tests et la compréhension du développement web moderne.",
         "link": "https://github.com/bendahmanenaim/mon-premier-projet-react",
         "alt": "Application de location immobilière Kasa"
     },
     {
-        "image": "ecoblissbath_small480.webp",
+        "image": "ecoblissbath_small_200h_31.webp",
         "title": "Eco Bliss Bath",
         "text": "Définition d'une stratégie de test pour une application bancaire. Analyse des spécifications fonctionnelles, planification des tests agiles, rédaction du cahier de recette et gestion de projet sur Notion.",
         "link": "https://github.com/bendahmanenaim/TesteurLogiciel_Automatisez_des_tests_pour_une_boutique_en_ligne",

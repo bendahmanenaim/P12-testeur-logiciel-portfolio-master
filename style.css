@@ -16,10 +16,15 @@
 #contact {
     padding-bottom: 4rem;
 }
-
+#wave5topbar{
+    background-color: black !important;
+}
 /* display background dark color on navbar scroll */
 .navbarScroll.navbarDark {
     background-color: black;
+}
+.navbar{
+    background-color: black !important;
 }
 .navbar-nav .nav-link {
     color: white !important;
@@ -33,14 +38,18 @@
 
 /* text css above hero image*/
 .hero_title {
-    font-size: 4.5rem;
+    font-size: 3.8rem;
     
     font-weight: 400;
+    background-color: black;
+    color: white;
 }
 .hero_desc {
-    font-size: 2rem;
+    font-size: 1.8rem;
     
     font-weight: 400;
+    background-color: black;
+    color: white;
 }
 .hero-text {
     text-align: center;
