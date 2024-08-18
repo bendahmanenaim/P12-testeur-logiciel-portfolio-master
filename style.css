@@ -71,7 +71,7 @@
 
 /* skills */
 .skillsText.card {
-    height: 350px;
+    height: 370px;
     cursor: pointer;
 }
 .skillsText img {
@@ -106,6 +106,15 @@
     height: 120px;
 }
 
+.card-body {
+    flex: 1 1 !important;
+    padding: 1rem 1rem;
+}
+.card .portfolioContent{
+    height: 370px !important;
+}
+
+
 /* contact */
 .contactColumn {
     display: flex;
@@ -117,13 +126,68 @@
 }
 
 /* footer */
+
+
+
 @media  (min-width: 1024px){
     .card-body{ height: 400px;
     }
     
 }
 @media  (min-width: 992px){
-    .card-body{ height: 500px;
+    /* Conteneur principal pour les cartes */
+#portfolio .container {
+    display: flex;
+    flex-wrap: wrap; /* Pour permettre aux cartes de s'ajuster sur plusieurs lignes */
+    flex-direction: column;
+    gap: 20px; /* Espace entre les cartes */
+    justify-content: center; /* Centrer les cartes dans le conteneur */
+}
+
+/* Chaque carte */
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Pour que le bouton soit toujours en bas */
+    width: 100%;
+    max-width: 300px; /* Largeur maximale pour chaque carte */
+    height: 100%; /* S'assure que chaque carte prend toute la hauteur disponible */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+
+/* Corps de la carte */
+.card-body {
+    flex: 1;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Pour garder le bouton en bas */
+}
+
+/* Titre de la carte */
+.card-title {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Texte de la carte */
+.card-text {
+    flex: 1;
+    margin-bottom: 1rem; /* Espace entre le texte et le bouton */
+}
+
+/* Bouton à la fin de la carte */
+.btn {
+    margin-top: auto; /* Pousse le bouton vers le bas */
+    align-self: center; /* Centrer le bouton */
+}
     }
     
-}
+    @media (min-width: 1200px) {
+        .card {
+            max-width: 450px; /* Taille maximale sur les très grands écrans */
+        }
+    }
