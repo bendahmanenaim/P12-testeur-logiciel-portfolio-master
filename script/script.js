@@ -96,6 +96,7 @@ function createPortfolioFromJSON() {
                     row.classList.add("row");
                 }
             });
+            manageLastTwoButtons(data.length);
         })
         .catch((error) => console.error('Error fetching the portfolio data:', error));
 }
